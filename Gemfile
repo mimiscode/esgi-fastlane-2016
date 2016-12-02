@@ -1,4 +1,4 @@
-lane :test do
-	scan()
-end
+source "https://rubygems.org"
+
+gem 'fastlane'
 
